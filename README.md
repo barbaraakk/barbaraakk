@@ -4,7 +4,9 @@
   </h1>
 <div align = "center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraakk&hide=javascript,css,scss,html&theme=tokyonight)
+ 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraakk&layout=compact&theme=tokyonight)](https://github.com/barbaraakk/github-readme-stats)
+  
  <h2>  My Current Stack </h2>
 <div style="display: inline_block"><br/>
 <img align="center alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=black" />
