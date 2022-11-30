@@ -4,8 +4,7 @@
   </h1>
 <div align = "center">
   
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraakk&layout=compact&theme=tokyonight)](https://github.com/barbaraakk/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraakk&layout=compact&theme=tokyonight)](https://github.com/barbaraakk/github-readme-stats)
   
  <h2>  My Current Stack </h2>
 <div style="display: inline_block"><br/>
@@ -15,7 +14,8 @@
 <img align="center alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=black" /><br> 
 <img align="center alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black" />    
 <img align="center alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-                                                      
+<img align="center alt="Javascript" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+                                                                                                                             
 <div align="center">
 
   ![Snake animation](https://github.com/barbaraakk/barbaraakk/blob/output/github-contribution-grid-snake.svg)
